@@ -80,4 +80,4 @@ This Privacy Policy may be updated if the functionality of the application chang
 If you have any questions regarding this Privacy Policy, you may contact:
 
 **Emfit Ltd**  
-support@emfit.com
+https://emfit.com/contact/
