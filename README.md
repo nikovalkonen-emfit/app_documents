@@ -2,9 +2,9 @@
 
 **Last updated:** March 13, 2026
 
-## Emfit WiFi Setup
+## Emfit Connect
 
-Emfit WiFi Setup is an application used to configure WiFi connectivity for Emfit devices. The application scans the device QR code, connects the phone to the device’s temporary setup network, and transfers the selected WiFi network credentials to the device.
+Emfit Connect is an application used to configure WiFi connectivity for Emfit devices. The application scans the device QR code, connects the phone to the device’s temporary setup network, and transfers the selected WiFi network credentials to the device.
 
 The application is designed solely for device provisioning and operates primarily through a local connection between the phone and the device being configured.
 
